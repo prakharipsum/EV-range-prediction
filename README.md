@@ -1,4 +1,4 @@
-# ⚡ EV Charging Station Optimization System
+# ⚡ EV Recommendation System
 
 ## 📌 Problem Statement
 With the rapid rise of electric vehicles (EVs), cities are facing challenges in establishing efficient and accessible EV charging infrastructure. Random placement of charging stations leads to:
